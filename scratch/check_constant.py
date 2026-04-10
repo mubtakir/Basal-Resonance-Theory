@@ -33,7 +33,7 @@ def verify_constant():
     avg_ratio = np.mean(results)
     print(f"\nAverage Ratio: {avg_ratio:.6f}")
     
-    c8 = float(mp.pi / mp.sqrt(8))
+    c8 = float(mp.pi / 3)
     c3 = float(mp.pi / mp.sqrt(3))
     
     print(f"Target (pi/3): {c8:.6f}")

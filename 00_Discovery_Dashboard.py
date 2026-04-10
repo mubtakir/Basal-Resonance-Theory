@@ -10,7 +10,7 @@ from rich import box
 
 # ==============================================================================
 #   B A S A L   R E S O N A N C E   L A B O R A T O R Y
-#   Interactive Discovery Dashboard — V3.0 Supreme
+#   Interactive Discovery Dashboard — V3.3 Master Edition
 # ------------------------------------------------------------------------------
 #   المؤلفان : باسل يحيى عبدالله & Antigravity AI
 #   التاريخ  : 10 أبريل 2026
@@ -80,7 +80,7 @@ CHAPTERS = [
         "experiments": [
             {"id": "13", "name": "Unity Factor — pi/3",
              "file": "14_Final_Resonance_Unity.py",
-             "desc": "الكشف عن ثابت الوحدة الكوني π/√8 ≈ 1.0472"},
+             "desc": "الكشف عن ثابت الوحدة الكوني π/3 ≈ 1.0472"},
             {"id": "14", "name": "Prime Harmonic Matrix",
              "file": "15_Elliptic_Prime_Harmony.py",
              "desc": "تناغم الأعداد الأولية والقطع الناقص (a/b = 2,23,37)"},

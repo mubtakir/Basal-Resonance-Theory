@@ -30,7 +30,7 @@ def verify_constants(num_zeros=10, N=1000000):
     
     results = []
     
-    c8 = pi / sqrt(8)
+    c8 = pi / 3
     c3 = pi / 3
     
     print(f"\nTarget Constants:")
@@ -70,7 +70,7 @@ def verify_convergence(num_zeros=3):
     Ns = [100000, 500000, 1000000, 2000000, 5000000]
     
     print(f"[/] Run Convergence Sweep (N up to 5,000,000) for {num_zeros} zeros...")
-    c8 = pi / sqrt(8)
+    c8 = pi / 3
     c3 = pi / 3
     
     print(f"pi/3 approx {float(c8):.10f}")

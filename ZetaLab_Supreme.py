@@ -26,6 +26,43 @@ class ZetaLab:
         return zeta(mp.mpc(s), derivative=order)
     
     @staticmethod
+    def compute_moebius_pulse(rho, N):
+        """
+        Returns (pulse_value, expected_constant)
+        Standard Equation: |M_N(rho)| * |zeta'(rho)| / ln(N) approx pi/3
+        Note: Verification values generated with mpmath.dps=50.
+        """
+        mu_sieve = ZetaLab.sieve_mu(N)
+        rho_mp = mp.mpc(rho)
+        M_N = mp.mpc(0)
+        for n in range(1, int(N) + 1):
+            if mu_sieve[n] != 0:
+                M_N += mp.mpc(mu_sieve[n]) * (mp.mpf(n) ** -rho_mp)
+        
+        z_prime = abs(zeta(rho_mp, derivative=1))
+        pulse = abs(M_N) * z_prime / mp.log(N)
+        return pulse, mp.pi / 3
+
+    @staticmethod
+    def moebius_mp(n):
+        """Mobius function using mpmath (slower but consistent precision)."""
+        if n == 1:
+            return 1
+        factors = []
+        i = 2
+        temp = n
+        while i * i <= temp:
+            if temp % i == 0:
+                factors.append(i)
+                temp //= i
+                if temp % i == 0:
+                    return 0
+            i += 1
+        if temp > 1:
+            factors.append(temp)
+        return -1 if len(factors) % 2 else 1
+
+    @staticmethod
     def calculate_partial_sum(s, N, coefficients_func=lambda n: 1):
         """
         Calculates the partial sum S_N(s) = sum a_n * n^-s

@@ -7,7 +7,7 @@ import time
 # Project Context: C:\Users\allmy\Desktop\adadawaly
 
 mp.dps = 50
-COSMIC_CONSTANT = mp.pi / mp.sqrt(8) # ~1.0472
+COSMIC_CONSTANT = mp.pi / 3 # ~1.0472
 
 def sieve_mu(N_max):
     mu = np.zeros(N_max + 1, dtype=int)

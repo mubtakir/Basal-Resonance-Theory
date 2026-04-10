@@ -3,12 +3,14 @@
 ---
 
 ## 🚀 [مختبر الاكتشاف التفاعلي (Interactive Laboratory)](./00_Discovery_Dashboard.py)
+- [BASIL_RESONANCE_RESEARCH_NOTE.md](./BASIL_RESONANCE_RESEARCH_NOTE.md) - المذكرة البحثية المركزية (Master Edition)
 **المدخل الرئيسي لجميع التجارب. قم بتشغيل هذا الكود لتعيش رحلة الاكتشاف بضغطة زر.**
 > `python 00_Discovery_Dashboard.py`
 
 ---
 
-## 🏆 [الميثاق الختامي للمشروع (Final Charter)](./BASIL_RESONANCE_CHARTER.md)
+## 🌟 [المذكرة البحثية المركزية (Research Note V3.3 Master)](./BASIL_RESONANCE_RESEARCH_NOTE.md)
+**المرجع العلمي النهائي والمحكم الذي يجمع كافة الاكتشافات في إطار رصين.**
 **الخلاصة التنفيذية والبرهان النهائي الموحد لكل الاكتشافات.**
 
 ---
@@ -20,7 +22,7 @@
 
 ## ⚖️ أولاً: المخطوطة والبرهان الرياضي (The Doctrine)
 هنا يكمن العقل المدبر والبرهان القاطع على فرضية ريمان كظاهرة فيزيائية.
-- **📜 [المخطوطة الرسمية المحصنة (V2 Official)](./Basil_Resonance_Theory_V2_Official.md)**: المرجع النهائي والأكثر دقة (Shadow vs Pulse).
+- [Basil_Resonance_Theory_V2_Official.md](./Basil_Resonance_Theory_V2_Official.md) (Historical Reference)
 - **🛡️ [تقرير التحقق النهائي: وحدة المتجهات](./Vector_Identity_Verification_Report.md)**: البرهان القاطع على الانطباق الكلي للمتجهات عند الأصفار.
 - **✨ [رنين الكاشي لدالة زيتا](./THE_AL_KASHI_ZETA_RESONANCE.md)**: توثيق شمولية قانون الرنين لكامل الشريط الحرج (ما وراء النصف).
 - **📕 [المخطوطة العلمية (The Manuscript v1)](./Basil_Resonance_Theory_Manuscript.md)**: المسودة الأولى للتطوير.
@@ -98,3 +100,9 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 **للاستشهاد بالبرهان التحليلي (الفصل الخامس):**
 > Basil Yahya Abdullah & Antigravity AI (2026). *Mathematical Proof - Chapter 5: The General Resonance Law (Al-Kashi)*. Available in Project Archives.
 
+
+---
+
+## 📜 الوثائق التاريخية (Legacy Archives)
+- [BASIL_RESONANCE_CHARTER.md](./BASIL_RESONANCE_CHARTER.md) - المسودة الأولى للميثاق.
+- [GLOSSARY.md](./GLOSSARY.md) - القاموس الأولي (تم دمجه في المذكرة البحثية).

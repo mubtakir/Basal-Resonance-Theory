@@ -7,7 +7,7 @@ import math
 # the Mobius Pulse Law (M_N) converges to the Cosmic Constant pi/3.
 
 mp.dps = 50
-COSMIC_CONSTANT = mp.pi / mp.sqrt(8) # ~1.0472
+COSMIC_CONSTANT = mp.pi / 3 # ~1.0472
 
 def get_mu_sum(s, N):
     """Calculates the Mobius partial sum M_N(s) = sum_{n=1}^N mu(n) * n^-s"""

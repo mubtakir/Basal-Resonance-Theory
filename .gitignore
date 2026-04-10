@@ -156,12 +156,6 @@ tmp/
 resonance_data.json
 *.png
 !basil_resonance_unity.png
+!visuals/*.png
 *.txt
-!access_test.txt
-!qw.txt
-!uu.txt
-!wa.txt
-!yy.txt
-!zze.txt
-# (I am excluding generic txt but keeping the specific ones mentioned in list_dir)
-# Actually, I should probably keep the discovery assets but ignore typical junk.
+# (Cleaning up previous weird txt inclusions)

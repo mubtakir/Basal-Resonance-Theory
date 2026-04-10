@@ -8,7 +8,7 @@ import json
 # Zeros: Z1 to Z5
 
 mp.dps = 50
-COSMIC_CONSTANT = mp.pi / mp.sqrt(8)
+COSMIC_CONSTANT = mp.pi / 3
 
 def compute_mobius_sieve(N):
     """Fast linear sieve for Mobius mu(n)"""

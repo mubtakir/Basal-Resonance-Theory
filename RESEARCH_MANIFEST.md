@@ -5,10 +5,9 @@
 ## 1. حجر الزاوية (The Theory)
 | الملف | الغرض ووصف النظرية |
 | :--- | :--- |
-| [master_thesis_final.md](./master_thesis_final.md) | البحث العلمي الشامل، يوثق كافة القوانين (الوتر، الرنين، العائلات، البرج). |
-| [research_draft.md](./research_draft.md) | المسودة الأولى التي بدأت منها الرحلة، تركز على مفهوم "سهم المجموع". |
-| [Basil_Resonance_Theory_V2_Official.md](./Basil_Resonance_Theory_V2_Official.md) | **المخطوطة الرسمية المحصنة (V2)**: المرجع النهائي (Base Unity Law). |
-| [master_thesis_final.md](./master_thesis_final.md) | البحث العلمي الشامل، يوثق كافة القوانين الأولية. |
+| [BASIL_RESONANCE_RESEARCH_NOTE.md](./BASIL_RESONANCE_RESEARCH_NOTE.md) | **المذكرة البحثية المركزية (V3.3 Master Edition)**: المرجع التخصصي والنهائي المعتمد للنشر. |
+| [Basil_Resonance_Theory_V2_Official.md](./Basil_Resonance_Theory_V2_Official.md) | المخطوطة الرسمية (Historical Reference - Base Unity Law). |
+| [master_thesis_final.md](./master_thesis_final.md) | البحث العلمي الشامل (Early Full Draft). |
 | [Basil_Resonance_Theory_Manuscript.md](./Basil_Resonance_Theory_Manuscript.md) | المسودة العلمية الأولى للبحث. |
 
 ---
