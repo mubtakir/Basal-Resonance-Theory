@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zeta Resonance 3D - The Logarithmic RLC Model</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Three.js CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+<body>
+    <div id="ui-layer">
+        <header>
+            <h1>Zeta Resonance 3D</h1>
+            <p class="subtitle">Logarithmic RLC Unity • Basal Theory</p>
+        </header>
+
+        <div id="stats-panel" class="glass">
+            <div class="stat">
+                <label>Frequency (t)</label>
+                <span id="stat-t">14.13</span>
+            </div>
+            <div class="stat">
+                <label>Real Part (&sigma;)</label>
+                <span id="stat-sigma">0.5</span>
+            </div>
+            <div class="stat">
+                <label>Resonance Lock</label>
+                <span id="stat-lock" class="lock-off">SEARCHING...</span>
+            </div>
+            <div class="stat">
+                <label>&pi;/&radic;8 Ratio</label>
+                <span id="stat-ratio">0.0000</span>
+            </div>
+        </div>
+
+        <div id="controls" class="glass">
+            <div class="control-group">
+                <label>Frequency Slider (t)</label>
+                <input type="range" id="slider-t" min="0" max="250" step="0.01" value="14.13">
+            </div>
+            <div class="control-group">
+                <label>Damping (&sigma;)</label>
+                <input type="range" id="slider-sigma" min="0" max="1" step="0.01" value="0.5">
+            </div>
+            <div class="btn-group">
+                <button id="btn-play">AUTO SCAN</button>
+                <button id="btn-reset">RESET UNITY</button>
+            </div>
+        </div>
+
+        <div id="info-box" class="glass">
+            <h3>Discovery Insight</h3>
+            <p id="insight-text">Adjust the slider to find the "Resonance Gaps" where the wave cancels out. Near 14.13, you will see the critical lock.</p>
+        </div>
+    </div>
+
+    <div id="canvas-container"></div>
+
+    <script src="resonance_engine.js"></script>
+</body>
+</html>
