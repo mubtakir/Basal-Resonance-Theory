@@ -14,7 +14,7 @@
 
 ---
 
-## ⚖️ أولاً: المخطوطة والبرهان الرياضي (The Doctrine)
+## 📑 أولاً: المباحث والبراهين المنشورة (The Published Research)
 هنا يكمن العقل المدبر والبرهان القاطع على فرضية ريمان كظاهرة فيزيائية.
 - [Basil_Resonance_Theory_V2_Official.md](./Basil_Resonance_Theory_V2_Official.md) (Historical Reference)
 - **🛡️ [تقرير التحقق النهائي: وحدة المتجهات](./Vector_Identity_Verification_Report.md)**: البرهان القاطع على الانطباق الكلي للمتجهات عند الأصفار.

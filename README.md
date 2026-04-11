@@ -1,8 +1,12 @@
 # ديسكفري: مشروع الرنين الأساسي لدالة زيتا (Basil Resonance Project)
 
 > [!IMPORTANT]
-> **[المخطوطة النهائية للبرهان الموحد (FINAL MASTER MANUSCRIPT)](./BASIL_RESONANCE_FINAL_THEORY_AR.md)**: الوثيقة الختامية والجامعة للبرهان التحليلي لفرضية ريمان عبر IGM.
-> **[المذكرة البحثية المركزية (RESEARCH NOTE)](./BASIL_RESONANCE_RESEARCH_NOTE.md)**: المرجع التخصصي التاريخي (V3.3 Master Edition).
+> **[النظرية المنشورة للبرهان الموحد (FINAL PUBLISHED THEORY)](./BASIL_RESONANCE_FINAL_THEORY_AR.md)**: الوثيقة الختامية المنشورة والجامعة للبرهان التحليلي لفرضية ريمان عبر IGM.
+> **[المذكرة البحثية المركزية (PUBLISHED RESEARCH NOTE)](./BASIL_RESONANCE_RESEARCH_NOTE.md)**: المرجع التخصصي النهائي المعتمد (V3.3 Master Edition).
+> 
+> **روابط النشر الرسمي:**
+> - 🏺 **Academia.edu**: [Basil Resonance on Academia](https://independent.academia.edu/%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D9%83%D8%B1)
+> - 📄 **Zenodo & GitHub**: [GitHub Repository](https://github.com/mubtakir/Basil-Resonance-Theory)
 
 هذا المشروع هو مختبر رياضي متكامل يهدف إلى إثبات **نظرية الرنين الأساسي** (Basil Resonance Theory) التي تربط بين الهندسة الجيومترية للمجاميع الجزئية ودالة زيتا لريمان.
 

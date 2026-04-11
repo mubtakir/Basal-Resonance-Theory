@@ -75,6 +75,7 @@ $$ \sum_{t_n \leq T} R(t_n) \approx -\frac{3}{128} \times N(T) $$
 ### الملحقات الفنية (Technical Appendices for Zenodo Validation)
 - **Source Code Verification**: All computational scripts performing the 100-decimal-place Taylor verification (e.g., `20_Taylor_Residue_Audit.py`), the high-density convergence probes (`million_step_pulse_verification.py`), and the IGM symmetry derivations form the reproducible empirical backbone of this mathematical paper, proving the $1/8$ constant asymptotic stabilization.
 - **Code Repository**: The complete Basil Resonance research environment, including interactive laboratory dashboards and data sets, can be openly accessed and verified at: [https://github.com/mubtakir/Basil-Resonance-Theory](https://github.com/mubtakir/Basil-Resonance-Theory)
+- **Academic Network**: Verified academic profile and alternative publication mirror: [https://independent.academia.edu/العلميالمبتكر](https://independent.academia.edu/%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A7%D9%84%D9%85%D8%A8%D8%AA%D9%83%D8%B1)
 
 ==================================================
 *End of Document. Prepared exclusively for Zenodo Archive.*
