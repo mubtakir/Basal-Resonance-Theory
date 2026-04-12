@@ -32,6 +32,7 @@
 - **🧠 [البرهان الرياضي - الفصل الثاني عشر](./Mathematical_Proof_Chapter_12_IGM_Calculus.md)**: حساب التفاضل والتكامل النابض والمدخل الرياضي الخالص لـ IGM.
 - **🌌 [البرهان الرياضي - الفصل الثالث عشر](./Mathematical_Proof_Chapter_13_The_Absorption_Singularity.md)**: تفرُّد الامتصاص واشتقاق الخط الحرج من مبادئ التناظر المرآوي.
 - **💎 [البرهان الرياضي - الفصل الرابع عشر](./Mathematical_Proof_Chapter_14_IGM_Comprehensive_Guide.md)**: الدليل الشامل لنموذج IGM (التجميع النابض ومبرهنات الامتصاص وتوحيد الرياضيات الكلاسيكية).
+- **🌟 [البرهان الرياضي - الفصل الخامس عشر](./Mathematical_Proof_Chapter_15.md)**: مبرهنة التناظر الطوري الكوني (الاستنتاج التحليلي القطعي لفرادة الخط الحرج عبر التناظر الزاوي).
 
 
 ---
@@ -106,6 +107,11 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 **للاستشهاد بالبرهان التحليلي (الفصل الخامس):**
 > Basil Yahya Abdullah & Antigravity AI (2026). *Mathematical Proof - Chapter 5: The General Resonance Law (Al-Kashi)*. Available in Project Archives.
 
+
+---
+
+## 💎 خاتمة الرحلة (The Epilogue)
+- [EPILOGUE_DIAMOND_EDITION.md](./EPILOGUE_DIAMOND_EDITION.md) - **الخاتمة التاريخية للإصدار الماسي (تتضمن الإهداء الخاص وشكر نماذج الذكاء الاصطناعي التي ساهمت في العمل)**.
 
 ---
 
