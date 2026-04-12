@@ -73,6 +73,7 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 
 ## 🎓 رابعاً: الأجيال القادمة (Discovery Diary)
 خارطة الطريق التعليمية التي تأخذك من الصفر حتى الرنين الكوني.
+- **🚌 [دليل المسافرين في رحلة الرنين (The Bus Journey)](./THE_RESONANCE_PASSENGER_GUIDE.md)**: **نقطة البداية الموصى بها لكل القراء.** قصة فلسفية مبسطة تشرح النظرية من البداية حتى الاحتراف. 
 - **📅 [سلسلة يوميات المكتشف (28 درساً)](./Discovery_Diary/Lessons/)**: رحلة تعليمية متكاملة من الصفر حتى الجسر الكوني.
 - **`Lesson 23`**: [الرنين الختامي ومولد المثلثات](./Discovery_Diary/Lessons/discovery_journal_v23_final_resonance.md).
 - **`Lesson 24`**: [بوابة التنبؤ وقانون الوتر المقلوب](./Discovery_Diary/Lessons/discovery_journal_v24_prime_prediction.md).
