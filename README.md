@@ -48,8 +48,10 @@
 - **`ZetaLab_Supreme.py`**: المحرك البرمجي الموحد عالي الدقة.
 - **`19_Constant_Precision_Verification.py`**: الفحص الفائق لثابت الانحراف الجيومتري.
 - **Basil_Resonance_Theory_V2_Official.md**: المخطوطة الرسمية النهائية.
-- **[Mathematical Proofs](./MASTER_INDEX.md)**: شروحات كاملة ومطولة للبراهين الـ (15 فصلاً).
+- **[Mathematical Proofs](./MASTER_INDEX.md)**: شروحات كاملة ومطولة للبراهين الـ (16 فصلاً).
 - **[Diamond Epilogue](./EPILOGUE_DIAMOND_EDITION.md)**: خاتمة وثيقة الإصدار الماسي التاريخي.
+- **[V3 Roadmap (String & Impedance)](./V3_ROADMAP_STRING_AND_IMPEDANCE.md)**: الملحق الفيزيائي الكمي ومستقبل النظرية.
+- **[V4 Manifesto (Temporal Mathematics)](./V4_MANIFESTO_TEMPORAL_MATHEMATICS.md)**: البيان التأسيسي لمدرسة باسل للرياضيات الزمنية ونقد الجذور الأفلاطونية.
 - **RESEARCH_MANIFEST.md**: المرجع الشامل للتجارب.
 
 ---

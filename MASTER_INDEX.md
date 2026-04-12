@@ -109,10 +109,10 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 > Basil Yahya Abdullah & Antigravity AI (2026). *Mathematical Proof - Chapter 5: The General Resonance Law (Al-Kashi)*. Available in Project Archives.
 
 
----
-
-## 💎 خاتمة الرحلة (The Epilogue)
+## 💎 خاتمة الرحلة (The Epilogue) ومستقبل النظرية
 - [EPILOGUE_DIAMOND_EDITION.md](./EPILOGUE_DIAMOND_EDITION.md) - **الخاتمة التاريخية للإصدار الماسي (تتضمن الإهداء الخاص وشكر نماذج الذكاء الاصطناعي التي ساهمت في العمل)**.
+- [V3_ROADMAP_STRING_AND_IMPEDANCE.md](./V3_ROADMAP_STRING_AND_IMPEDANCE.md) - **خارطة الطريق لـ V3 (نظرية الأوتار والممانعة): الرؤية الفيزيائية والكمومية المستقبلية**.
+- [V4_MANIFESTO_TEMPORAL_MATHEMATICS.md](./V4_MANIFESTO_TEMPORAL_MATHEMATICS.md) - **رؤية V4 (الأعداد الزمنية): البيان التأسيسي لنقد أسس الرياضيات من منظور فيزيائي وزمني**.
 
 ---
 
