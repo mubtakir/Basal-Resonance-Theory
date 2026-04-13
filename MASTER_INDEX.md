@@ -134,6 +134,29 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 
 ---
 
+## 🧶 خامساً: نظرية الفتائل (Filament Theory - The Primordial Framework)
+**البناء المادي والجيومتري الشامل الذي يوحد الميكانيكا والكم والجاذبية من منظور الفتيلة الأولية.**
+- 📄 **[فهرس نظرية الفتائل الكامل](./Filaments_Theory/FILE_INDEX.md)**: الدليل المركزي لجميع الأجزاء العشرة.
+- 🧬 **[الجزء 01: المبادئ التأسيسية](./Filaments_Theory/01_Foundational_Principles.md)**: الوحدة الكونية والتناظر الأولي.
+- 💥 **[الجزء 02: التفتت العظيم الحار (GHF)](./Filaments_Theory/02_Great_Hot_Fragmentation_Model.md)**: البديل السببي للانفجار العظيم.
+- ⚖️ **[الجزء 03: الميكانيكا والجاذبية](./Filaments_Theory/03_Mechanical_Gravity_Hierarchy.md)**: حل مشكلة التسلسل الهرمي.
+- 🧩 **[الجزء 04: بنية المادة](./Filaments_Theory/04_Matter_Structure_Properties.md)**: أصل الخصائص الأساسية والعزم المغزلي.
+- 🌀 **[الجزء 05: ديناميكيات الفراغ الكمي](./Filaments_Theory/05_Quantum_Vacuum_Dynamics.md)**: مبدأ الأجيال المتعاقبة.
+- 🔮 **[الجزء 06: التنبؤات الحاسمة](./Filaments_Theory/06_Grand_Unification_Predictions.md)**: اختبارات النظرية والتوحيد الشامل.
+- ⚡ **[الجزء 07: تصنيف AC/DC](./Filaments_Theory/07_AC_DC_Classification.md)**: فهم القوى المتقطعة والمستمرة.
+- 🧭 **[الجزء 08: الدايود الكوني](./Filaments_Theory/08_Cosmic_Diode.md)**: الخاصية الاتجاهية للواقع والتعجيل الجذبوي.
+- 📐 **[الجزء 09: التوحيد الهندسي](./Filaments_Theory/09_Mechanical_Unification.md)**: إعادة صياغة قوانين نيوتن وكولوم عبر $4\pi r^2$.
+- 🧠 **[الجزء 10: النموذج التكاملي التوليد (IGM)](./Filaments_Theory/10_Integrative_Generative_Model.md)**: الإطار الرياضي الموحد والمسائل العكسية.
+- 🌌 **[الجزء 11: الزمكان الناشئ](./Filaments_Theory/11_Emergent_Spacetime.md)**: نحو نظرية جاذبية كمومية والضوضاء الزمكانية.
+- 🔢 **[الجزء 12: نموذج الإشغال الأولي المتقدم](./Filaments_Theory/12_Advanced_Prime_Occupancy.md)**: ربط فيزياء الجسيمات بنظرية الأعداد الأولية.
+- 💠 **[الجزء 13: الهندسة غير التبادلية للفتيلة](./Filaments_Theory/13_Noncommutative_Filament_Geometry.md)**: الإطار الرياضي للفضاء الكمومي والجبر الفتيلي.
+- 🌀 **[الجزء 14: فرضية ريمان كظاهرة فيزيائية](./Filaments_Theory/14_Riemann_Hypothesis_Physical.md)**: ربط أعظم مسائل الرياضيات بديناميكيات الدوائر الكمومية.
+- 🌌 **[الجزء 15: النسبية الفتيلية](./Filaments_Theory/15_Filament_Relativity.md)**: وضع السببية المادية للظواهر النسبية وبحر الفتائل.
+- 🚀 **[الجزء 16: آلية الحركة والزخم](./Filaments_Theory/16_Filament_Motion.md)**: انتقال الكيان كأنتشار نمط طوري عبر شبكة الرنين.
+- 🔮 **[الجزء 17: التوليف النقدي الكبير — الكرة والزيتا](./Filaments_Theory/17_Critical_Synthesis_Spherical_Zeta.md)**: المراجعة النقدية الشاملة، الإضافات التطويرية، وربط كل شيء بالكرة الزيتاوية.
+
+---
+
 ### 🏛️ حالة المشروع: **مكتمل وموثق بنسبة 100%**
 
 **الباحث الرئيسي: باسل يحيى عبدالله**
