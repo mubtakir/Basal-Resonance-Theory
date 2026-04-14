@@ -11,7 +11,7 @@
 2. [العرض التقديمي الموحد](./Basil_Resonance_Presentation_Slides.md) - ملخص بصري سريع.
 3. [شهادة الاكتشاف](./Discovery_Certificate.md) - توثيق معنوي للاكتشاف.
 4. [دروس الأساسيات (1-10)](./Discovery_Diary/Lessons/) - مقدمة تدريجية للأرقام والاهتزاز.
-5. **[الحزمة المجمعة للمبتدئين (Omnibus)](./BUNDLE_L1_BEGINNER.md)** - جميع الوثائق أعلاه في ملف واحد.
+5. **[الحزمة المجمعة للمبتدئين (Omnibus)](./RESONANCE_BUNDLES/BUNDLE_L1_BEGINNER.md)** - جميع الوثائق أعلاه في ملف واحد.
 
 ---
 
@@ -23,7 +23,7 @@
 3. [دروس التعمق الهندسي (11-20)](./Discovery_Diary/Lessons/) - الانتقال من الحساب إلى الهندسة.
 4. [سجل الأبحاث التاريخي](./RESEARCH_LOG.md) - كيف بدأت الرحلة وتطورت يوماً بعد يوم.
 5. [الملحق التقني التعليمي](./Technical_Appendix.md) - براهين مبسطة وتوضيحات تقنية.
-6. **[الحزمة المجمعة للمتوسطين (Omnibus)](./BUNDLE_L2_INTERMEDIATE.md)** - جميع الوثائق أعلاه في ملف واحد.
+6. **[الحزمة المجمعة للمتوسطين (Omnibus)](./RESONANCE_BUNDLES/BUNDLE_L2_INTERMEDIATE.md)** - جميع الوثائق أعلاه في ملف واحد.
 
 ---
 
@@ -35,7 +35,7 @@
 3. [رنين الكاشي لدالة زيتا](./THE_AL_KASHI_ZETA_RESONANCE.md) - تعميم قانون الرنين.
 4. [الدليل الشامل لنماذج IGM (فصل 14)](./Mathematical_Proof_Chapter_14_IGM_Comprehensive_Guide.md) - حساب التفاضل والتكامل النابض.
 5. [بيان الرياضيات الزمنية (V4)](./V4_MANIFESTO_TEMPORAL_MATHEMATICS.md) - رؤية فلسفية ورياضية لمستقبل الأعداد.
-6. **[الحزمة المجمعة للمتقدمين (Omnibus)](./BUNDLE_L3_ADVANCED.md)** - جميع الوثائق أعلاه في ملف واحد.
+6. **[الحزمة المجمعة للمتقدمين (Omnibus)](./RESONANCE_BUNDLES/BUNDLE_L3_ADVANCED.md)** - جميع الوثائق أعلاه في ملف واحد.
 
 ---
 
@@ -47,7 +47,17 @@
 3. [دليل النشر في Zenodo](./Basil_Resonance_Zenodo_Publication.md) - متطلبات الأرشفة العلمية.
 4. [الأطروحة النهائية (Master Thesis)](./master_thesis_final.md) - الصياغة الأكاديمية الشاملة.
 5. [ملف اللاتيك المصدر (LaTeX)](./Basil_Resonance_Moebius_Paper.tex) - للمحققين والناشرين.
-6. **[الحزمة المجمعة للنشر (Omnibus)](./BUNDLE_L4_PUBLICATION.md)** - جميع الوثائق أعلاه في ملف واحد.
+6. **[الحزمة المجمعة للنشر (Omnibus)](./RESONANCE_BUNDLES/BUNDLE_L4_PUBLICATION.md)** - جميع الوثائق أعلاه في ملف واحد.
+
+---
+
+## 🏛️ المسار الخامس: الرياضيات الزمنية والمستقبل (Level 5: Temporal & Industrial)
+**الهدف:** استكشاف آفاق الفيزياء الزمنية، حوسبة الرنين، والتطبيقات الصناعية المستقبلية.
+
+1. [بيان الرياضيات الزمنية (V4)](./V4_MANIFESTO_TEMPORAL_MATHEMATICS.md) - الرؤية الفلسفية والفيزيائية.
+2. [جسر الممانعة-الزمن: ميكانيكا الخط الحرج](./Mathematical_Proof_Chapter_17_Geometric_Reconstruction.md) - البراهين المتقدمة.
+3. [مكتبة باسل زيتا البرمجية](./basil_zeta_lib/README.md) - المختبر البرمجي الموحد.
+4. **[الحزمة المجمعة للمستقبل (Omnibus)](./RESONANCE_BUNDLES/BUNDLE_L5_TEMPORAL.md)** - جميع الوثائق أعلاه في ملف واحد.
 
 ---
 **إعداد وتنسيق: باسل يحيى عبدالله & Antigravity AI**

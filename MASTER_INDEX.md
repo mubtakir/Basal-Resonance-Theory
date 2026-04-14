@@ -104,7 +104,7 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 - [📊 العرض التقديمي الموحد (Slides)](./Basil_Resonance_Presentation_Slides.md)
 - [📜 شهادة الاكتشاف التعليمية](./Discovery_Certificate.md)
 - [👶 دروس البدايات (Lessons 1-10)](./Discovery_Diary/Lessons/)
-- [🎁 الحزمة المجمعة للمبتدئين [NEW]](./BUNDLE_L1_BEGINNER.md)
+- [🎁 الحزمة المجمعة للمبتدئين [NEW]](./RESONANCE_BUNDLES/BUNDLE_L1_BEGINNER.md)
 
 ### 2️⃣ المستوى الثاني: المتوسط (University Students)
 *للمتعمقين في المنطق الرياضي والتسلسل الزمني للاكتشاف.*
@@ -113,7 +113,7 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 - [🔍 تعمق الهندسة (Lessons 11-20)](./Discovery_Diary/Lessons/)
 - [📈 سجل الأبحاث التاريخي](./RESEARCH_LOG.md)
 - [🛠️ الملحق التقني التعليمي](./Technical_Appendix.md)
-- [🎁 الحزمة المجمعة للمتوسطين [NEW]](./BUNDLE_L2_INTERMEDIATE.md)
+- [🎁 الحزمة المجمعة للمتوسطين [NEW]](./RESONANCE_BUNDLES/BUNDLE_L2_INTERMEDIATE.md)
 
 ### 3️⃣ المستوى الثالث: المتقدم (Professors & Researchers)
 *للمتخصصين في الرياضيات البحتة والفيزياء النظرية.*
@@ -122,7 +122,7 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 - [✨ رنين الكاشي لدالة زيتا](./THE_AL_KASHI_ZETA_RESONANCE.md)
 - [🧠 الدليل الشامل لـ IGM](./Mathematical_Proof_Chapter_14_IGM_Comprehensive_Guide.md)
 - [🌌 بيان الرياضيات الزمنية (V4)](./V4_MANIFESTO_TEMPORAL_MATHEMATICS.md)
-- [🎁 الحزمة المجمعة للمتقدمين [NEW]](./BUNDLE_L3_ADVANCED.md)
+- [🎁 الحزمة المجمعة للمتقدمين [NEW]](./RESONANCE_BUNDLES/BUNDLE_L3_ADVANCED.md)
 
 ### 4️⃣ المستوى الرابع: النشر (Publication & Journals)
 *المخطوطات الرسمية المُعدة للنشر في المجلات العلمية.*
@@ -131,7 +131,12 @@ $$ |M_N(\rho)| \approx \frac{A_n}{3} \cdot \frac{\ln N}{t_n} \quad \text{(Equila
 - [📤 مسودة النشر في Zenodo](./Basil_Resonance_Zenodo_Publication.md)
 - [🏆 الأطروحة النهائية (Thesis)](./master_thesis_final.md)
 - [📄 ملف اللاتيك للنشر (LaTeX)](./Basil_Resonance_Moebius_Paper.tex)
-- [🎁 الحزمة المجمعة للنشر [NEW]](./BUNDLE_L4_PUBLICATION.md)
+- [🎁 الحزمة المجمعة للنشر [NEW]](./RESONANCE_BUNDLES/BUNDLE_L4_PUBLITATION.md)
+
+### 5️⃣ المستوى الخامس: الرياضيات الزمنية والمستقبل (Temporal & Industrial)
+*للمهندسين والمفكرين المتطلعين للتطبيقات الصناعية والفيزياء الزمنية.*
+- [⏳ بيان الرياضيات الزمنية (V4)](./V4_MANIFESTO_TEMPORAL_MATHEMATICS.md)
+- [🎁 الحزمة المجمعة للمستقبل [NEW]](./RESONANCE_BUNDLES/BUNDLE_L5_TEMPORAL.md)
 
 ---
 
